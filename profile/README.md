@@ -13,3 +13,4 @@ It is open by default and will always be.
 - [Frontend](https://github.com/archivetheweb/archivetheweb)
 - [Archiver](https://github.com/archivetheweb/archiver)
 - [Warp Contracts](https://github.com/archivetheweb/warp-contracts-rust)
+- [Warp DRE client](https://github.com/archivetheweb/warp_dre)
